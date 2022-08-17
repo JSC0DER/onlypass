@@ -1,14 +1,14 @@
 const ctype     = 'Content-Type';
 const cacheName = 'onlypass_cache_v3';
 const cacheUrls = [
-    "/onlypass/",
-    "/onlypass/manifest.json",
-    "/onlypass/index.html",
-    "/onlypass/bundle.js",
-    "/onlypass/assets/icon.svg",
-    "/onlypass/assets/icon.png",
-    "/onlypass/vendor/css/destyle.min.css",
-    "/onlypass/vendor/js/sha3.js",
+    "/",
+    "/manifest.json",
+    "/index.html",
+    "/bundle.js",
+    "/assets/icon.svg",
+    "/assets/icon.png",
+    "/vendor/css/destyle.min.css",
+    "/vendor/js/sha3.js",
 ];
 const mimes     = {
     js   : 'text/javascript',
