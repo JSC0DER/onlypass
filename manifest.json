@@ -1,0 +1,24 @@
+{
+    "name": "OnlyPass - Password Manager",
+    "short_name": "OnlyPass",
+    "start_url": "http://127.0.0.1:9000/dev/onlypass/",
+    "scope": "http://127.0.0.1:9000/dev/onlypass/",
+    "display": "fullscreen",
+    "theme_color": "#212224",
+    "background_color": "#212224",
+    "orientation": "portrait",
+    "categories": ["security", "utilities"],
+    "icons": [
+        {
+          "src": "/dev/onlypass/assets/icon.png",
+          "sizes": "1000x1000",
+          "type": "image/png"
+        },
+        {
+            "src": "/dev/onlypass/assets/maskable_icon.png",
+            "sizes": "930x930",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+  }
